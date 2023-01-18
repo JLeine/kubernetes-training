@@ -10,7 +10,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: 'applications'
-    repoURL: 'https://github.com/wurstbrot/kustomize-training.git'
+    repoURL: 'https://github.com/JLeine/kubernetes-training.git'
     targetRevision: main
   project: default
   syncPolicy:
